@@ -31,12 +31,14 @@ goappdl.goforandroid.com
 conf.api.hk.goforandroid.com
 net.rayjump.com
 www.rayjump.com
+http://www.wecloud.com
 goload.wecloud.io
 wecloud.io
 www.wecloud.io
 googleads.g.doubleclick.net
 doubleclick.net
 www.doubleclick.net
+https://www.appsflyer.com
 stats.appsflyer.com
 appsflyer.com
 www.appsflyer.com

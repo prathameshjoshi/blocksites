@@ -4,4 +4,12 @@ www.foxonestop.com
 foxonestop.com
 www.zedo.com
 zedo.com
+cdn.taboola.com
+www.cdn.taboola.com
+c2.taboola.com
+www.c2.taboola.com
+ads.rubiconproject.com
+www.ads.rubiconproject.com
+3608.tm.zedo.com
+www.3608.tm.zedo.com
 

@@ -12,4 +12,5 @@ ads.rubiconproject.com
 www.ads.rubiconproject.com
 3608.tm.zedo.com
 www.3608.tm.zedo.com
-
+tpc.googlesyndication.com
+www.tpc.googlesyndication.com

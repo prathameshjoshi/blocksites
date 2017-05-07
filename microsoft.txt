@@ -8,3 +8,9 @@ mp.microsoft.com
 microsoft.com
 footprint.net
 edgesuite.net
+delivery.mp.microsoft.com
+c-msedge.net
+wns.windows.com
+dsp.mp.microsoft.com
+licensing.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com

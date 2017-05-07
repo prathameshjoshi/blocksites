@@ -1,0 +1,10 @@
+mp.microsoft.com
+au-msedge.net
+wns.windows.com
+cms.msn.com
+msn.com
+edgekey.net
+mp.microsoft.com
+microsoft.com
+footprint.net
+edgesuite.net

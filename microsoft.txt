@@ -14,3 +14,5 @@ wns.windows.com
 dsp.mp.microsoft.com
 licensing.mp.microsoft.com
 tlu.dl.delivery.mp.microsoft.com
+fe3.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
